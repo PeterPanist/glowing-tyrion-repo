@@ -1,1 +1,2 @@
-Tis is a new filr for pull and push github
+This is a new filler for pull and push github.
+Mohsen: I did fix some typos :)
